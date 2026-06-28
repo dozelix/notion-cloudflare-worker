@@ -1,8 +1,5 @@
 {
-	"name": "<WORKER_NAME>",
-	"main": "src/index.js",
-	"compatibility_date": "<COMPATIBILITY_DATE>",
-	"observability": {
-		"enabled": true,
-	},
+  "name": "notion-cloudflare-worker",
+  "main": "src/index.js",
+  "compatibility_date": "2026-06-28"
 }
